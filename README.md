@@ -24,7 +24,7 @@ Or click here:
 
 ## Screen Recording
 
-App Demo Video : https://github.com/Nerd0Vidhan/android-kyc-assignment/blob/master/resources/video/SignZy(Assignment)-WalkThrough.mp4
+App Demo Video : https://github.com/Nerd0Vidhan/android-kyc-assignment/blob/master/resources/video
 
 > **Demo includes:**
 > - Customer listing with search
