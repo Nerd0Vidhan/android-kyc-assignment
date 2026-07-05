@@ -12,14 +12,15 @@ Download and install the latest APK to try the application.
 
 <p align="center">
 
-<a href="https://raw.githubusercontent.com/Nerd0Vidhan/android-kyc-assignment/main/resources/app/SignZy.apk">
-    <img src="https://img.shields.io/badge/Download-Latest_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+<a href="https://github.com/Nerd0Vidhan/android-kyc-assignment/blob/master/resources/app/SignZy.apk">
+    <img src="https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
 </a>
 
 </p>
 
-Or click here: **[Download SignZy.apk](https://raw.githubusercontent.com/Nerd0Vidhan/android-kyc-assignment/main/resources/app/SignZy.apk)**
+Or click here:
 
+**[SignZy.apk](https://github.com/Nerd0Vidhan/android-kyc-assignment/blob/master/resources/app/SignZy.apk)**
 
 ## Screen Recording
 
