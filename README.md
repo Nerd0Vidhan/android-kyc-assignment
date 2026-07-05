@@ -20,7 +20,7 @@ Download and install the latest APK to try the application.
 
 Or click here:
 
-**[SignZy.apk](https://github.com/Nerd0Vidhan/android-kyc-assignment/blob/master/resources/app/SignZy.apk)**
+**[SignZy.apk](https://github.com/Nerd0Vidhan/android-kyc-assignment/blob/master/resources/app)**
 
 ## Screen Recording
 
