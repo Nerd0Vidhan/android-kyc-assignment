@@ -24,9 +24,7 @@ Or click here:
 
 ## Screen Recording
 
-Click the thumbnail below to watch a complete walkthrough of the application.
-
-[![Android KYC Assignment Demo](https://img.youtube.com/vi/VWv2H4zSfbU/maxresdefault.jpg)](https://youtu.be/VWv2H4zSfbU)
+App Demo Video : https://github.com/Nerd0Vidhan/android-kyc-assignment/blob/master/resources/video/SignZy(Assignment)-WalkThrough.mp4
 
 > **Demo includes:**
 > - Customer listing with search
